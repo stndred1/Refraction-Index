@@ -1,0 +1,1119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2023.1.2</Producer>
+  <OriginalFilename>20240801_192645</OriginalFilename>
+  <FullPath>C:\Users\Deltaz\OneDrive\Desktop\CM #2\prob2\pickypikpickies\20240801_192645.jpg</FullPath>
+  <ImageSize>4000;2252</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <AverageTimeStampsPerFrame>1</AverageTimeStampsPerFrame>
+  <CaptureFramerate>25</CaptureFramerate>
+  <UserFramerate>25</UserFramerate>
+  <FirstTimeStamp>0</FirstTimeStamp>
+  <SelectionStart>1</SelectionStart>
+  <SelectionEnd>251</SelectionEnd>
+  <TimeOrigin>1</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>0.117</Length>
+      <Segment>
+        <A>1312.678;779.5825</A>
+        <B>2673.58;709.5635</B>
+      </Segment>
+      <Origin>1.788943E-17;0.117</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>d071c8cb-b372-4755-97d4-e5e721a6c5f5</CalibrationDrawingId>
+    <Unit Abbreviation="m">Meters</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="f398269f-18d4-4cfc-a8a6-20c3c0d5c57c">
+      <Timestamp>1</Timestamp>
+      <Name>0.00</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <CrossMark id="563b02e9-9920-4971-a443-6d3ce5feebba" name="Marker 1">
+          <CenterPoint>1408.629;959.457</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1391.287;915.9521</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="162eb708-2a70-4d16-83b9-03a3be79dcce" name="Marker 2">
+          <CenterPoint>1433.723;960.7243</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1416.176;916.984</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="db6bdc16-d7ff-4935-a567-590fb170d99f" name="Marker 3">
+          <CenterPoint>1450.814;967.3986</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1433.112;923.9042</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="ab3f53ac-e697-4818-90ff-dbf02e851fd8" name="Marker 4">
+          <CenterPoint>1474.472;965.4305</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1456.984;921.9362</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="b57eba23-2669-414c-9a97-1371a886fdf2" name="Marker 5">
+          <CenterPoint>1487.659;971.2275</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1470.016;927.8563</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="c504df2d-66a1-4948-bf0e-c004ddfb414e" name="Marker 6">
+          <CenterPoint>1504.826;974.9498</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1486.904;931.8243</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="19a51c2d-2ab6-42dd-abc6-314df6c07d64" name="Marker 7">
+          <CenterPoint>1517.66;975.3987</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1499.952;931.8882</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="dd63dfdd-c3ed-424b-bb34-ba8e26618d49" name="Marker 8">
+          <CenterPoint>1530.045;978.1367</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1512.936;934.8722</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="441fcea5-d01f-45ce-bf8f-8d47b7e7fd6c" name="Marker 9">
+          <CenterPoint>1538.601;979.8908</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1520.968;936.8722</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="ab8c6ddd-4fa9-41cc-a060-dea2f73ae1d5" name="Marker 10">
+          <CenterPoint>1552.185;984.5969</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1534.904;940.8243</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="89e747f6-1ee6-4a7e-8510-ab7ae0a36273" name="Marker 11">
+          <CenterPoint>1567.522;988.1049</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1549.84;944.8243</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="6c7da07c-5577-43b3-b0d9-a6cba8515ead" name="Marker 12">
+          <CenterPoint>1581.105;991.7201</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1563.776;947.8084</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="b3dcfe89-1659-4d5e-8629-2928df06680d" name="Marker 13">
+          <CenterPoint>1598.967;994.5652</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1581.729;950.7764</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="02549227-12e6-4888-a4c0-ad6b945e4a0e" name="Marker 14">
+          <CenterPoint>1618.69;999.2713</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1601.665;955.7285</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="5bf6074f-c8cd-43da-9118-9bcf567e47c4" name="Marker 15">
+          <CenterPoint>1631.396;1000.918</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1613.601;957.7445</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="de371a11-14da-40b3-a858-9697f15ed6fd" name="Marker 16">
+          <CenterPoint>1666.434;1009.346</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1649.345;965.6646</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="0c966793-862b-4a39-9b3d-fbe91ee7cd19" name="Marker 17">
+          <CenterPoint>1643.63;1003.677</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1626;959.8563</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="cef18ac2-061b-437f-9ae7-02cb87a1e1f7" name="Marker 18">
+          <CenterPoint>1653.94;1007.185</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1636.032;963.8563</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="68562871-3ae4-465d-9d4b-7ebfa276f26b" name="Marker 19">
+          <CenterPoint>1680.999;1013.11</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1663.92;969.8882</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="3595a9e5-57ae-4c77-98ea-eed7d81f1040" name="Marker 20">
+          <CenterPoint>1695.374;1018.586</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1678;974.8563</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="726a3954-6141-412a-8e25-c461ae8583dc" name="Marker 21">
+          <CenterPoint>1714.668;1022.651</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1697;978.9042</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="a2a75ae0-ceaa-4a09-b2aa-328eee3e4cd5" name="Marker 22">
+          <CenterPoint>1732.23;1026.501</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1715.128;982.984</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="273f91a7-0290-444b-92f8-1ff8274115f6" name="Marker 23">
+          <CenterPoint>1750.394;1033.389</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1733.367;989.8723</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="da2d87c4-36ac-487f-8e36-7fc6aec49c40" name="Marker 24">
+          <CenterPoint>1779.247;1042.266</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1762.048;998.8563</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="9d7b4911-fb03-4d9e-9918-ab90f626e35c" name="Marker 25">
+          <CenterPoint>1816.937;1051.806</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1799.92;1007.872</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="b3b70c1a-6206-485e-ac4b-fc5dbf3484d0" name="Marker 26">
+          <CenterPoint>1838.542;1055.87</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1820.968;1011.92</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="10fe3589-d954-45a8-aa7e-c4b105e8f551" name="Marker 27">
+          <CenterPoint>1858.05;1064.191</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1840.936;1020.856</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="0cd4b144-3a3f-498d-a4b5-5e5ebffa3796" name="Marker 28">
+          <CenterPoint>1886.521;1071.101</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1868.744;1027.872</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="32299ccb-5436-460e-99eb-9d1cb50cb509" name="Marker 29">
+          <CenterPoint>1903.548;1076.042</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1885.952;1032.92</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="222afad5-2578-4ffc-9cc7-3264f45a7e58" name="Marker 30">
+          <CenterPoint>1926.907;1081.646</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1909;1038</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="a562ebba-1a18-4454-9263-3b54227b8f81" name="Marker 31">
+          <CenterPoint>1942.714;1088.32</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1925.128;1044.92</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="ae739149-014f-4a66-abd1-d12f2eedeaa2" name="Marker 32">
+          <CenterPoint>1962.886;1095.229</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1945.128;1051.936</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="53af8326-55f4-4241-bd0d-140360a0d8b6" name="Marker 33">
+          <CenterPoint>1990.405;1101.721</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1972.984;1057.92</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="f42aad88-adb3-4415-8674-9624b4c300d5" name="Marker 34">
+          <CenterPoint>2021.625;1114.181</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2004;1070.856</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="3c29297c-b574-4177-afc8-bb8b2cea9172" name="Marker 35">
+          <CenterPoint>2064.149;1128.214</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2046.936;1084.856</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="e8123bf2-cad3-4388-bfa5-fae37f6aacac" name="Marker 36">
+          <CenterPoint>2098.225;1135.123</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2080.824;1091.872</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="16cef012-2575-4242-9cff-6932179a7125" name="Marker 37">
+          <CenterPoint>2126.439;1141.39</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2109.064;1097.984</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="d7fe9273-a847-4c17-8a8c-7a3b7fcae561" name="Marker 38">
+          <CenterPoint>2155.808;1154.438</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2138;1111</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="0bb14088-8b3c-40ac-936b-a2e700095cab" name="Marker 39">
+          <CenterPoint>2188.386;1173.947</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2171.112;1129.968</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="a9416ad2-0e8e-435e-9289-bba7ae793e0f" name="Marker 40">
+          <CenterPoint>2216.713;1201.99</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2199.128;1158.84</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="ca0d8e1f-77a5-42df-b439-634b93a553e3" name="Marker 41">
+          <CenterPoint>2235.959;1220.536</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2218.08;1176.952</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="8d081c68-8cee-4589-9774-abb529b875b6" name="Marker 42">
+          <CenterPoint>2264.441;1248.365</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2247.112;1204.856</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="b069cd6f-d414-459a-8fa0-54f49ff273f9" name="Marker 43">
+          <CenterPoint>2283.874;1266.119</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2266.128;1222.824</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="d940efb6-1a39-4e36-8011-7f47829c44f5" name="Marker 44">
+          <CenterPoint>2298.676;1275.788</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2281.144;1231.952</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="26abbb11-54dd-469b-9e9f-17b92e2d49b6" name="Marker 45">
+          <CenterPoint>2302.333;1288.515</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2284.383;1245.016</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <CrossMark id="5836bb7b-d819-4264-8712-f068dc2d6c78" name="Marker 46">
+          <CenterPoint>2045.125;1120.555</CenterPoint>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>2013.904;1042.856</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;100;149;237</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </CrossMark>
+        <Line id="d071c8cb-b372-4755-97d4-e5e721a6c5f5" name="Line 1">
+          <Start>1312.678;779.5825</Start>
+          <End>2673.58;709.5635</End>
+          <ExtraData>TravelDistance</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1890.189;601.7401</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>2</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>None</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Angle id="0b9925bb-4a9e-45af-9e68-26799d75e6f9" name="Angle 1">
+          <PointO>1404.466;957.5738</PointO>
+          <PointA>1633.017;956.303</PointA>
+          <PointB>1645.795;1011.089</PointB>
+          <Signed>true</Signed>
+          <CCW>true</CCW>
+          <Supplementary>false</Supplementary>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;0;153;153</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Angle>
+      </Drawings>
+    </Keyframe>
+  </Keyframes>
+  <CoordinateSystem id="76329ec5-835a-4908-9b89-a8bc58349bd3" name="Coordinate system 1">
+    <Position>1312.678;779.5825</Position>
+    <Visible>false</Visible>
+    <ShowGrid>true</ShowGrid>
+    <ShowGraduations>true</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="359bc083-8795-49c1-98e4-4b5e16497d15" name="Camera test grid 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability />
+  <VideoFilters>
+    <Kinogram>
+      <TileCount>18</TileCount>
+      <Rows>3</Rows>
+      <CropSize>400;600</CropSize>
+      <CropPositions>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+      </CropPositions>
+      <AutoInterpolate>true</AutoInterpolate>
+      <LeftToRight>true</LeftToRight>
+      <BorderColor>44;44;44</BorderColor>
+      <BorderVisible>true</BorderVisible>
+      <MeasureLabelType>None</MeasureLabelType>
+    </Kinogram>
+  </VideoFilters>
+</KinoveaVideoAnalysis>
