@@ -47,45 +47,55 @@ c1_fitted, c2_fitted, alpha_fitted = fitting_result.x
 # Compute the refractive index n(y) based on the optimized α and y-data points
 n_y_values = 1 + alpha_fitted * y_data
 
-# Calculate and display the average refractive index
-average_n_y = np.mean(n_y_values)
-
-# Calculate model predictions for R^2 calculation
-y_predicted = refraction_model([c1_fitted, c2_fitted, alpha_fitted], x_data)
-
-# Calculate R^2
-ss_total = np.sum((y_data - np.mean(y_data)) ** 2)  # Total sum of squares
-ss_residual = np.sum((y_data - y_predicted) ** 2)  # Residual sum of squares
-r_squared = 1 - (ss_residual / ss_total)  # R^2 formula
-
-# Print the results
-print(f"Optimized c1 = {c1_fitted:.4f}")
-print(f"Optimized c2 = {c2_fitted:.4f}")
-print(f"Optimized α (alpha) = {alpha_fitted:.4f}")
-print(f"Average refractive index n(y) = {average_n_y:.4f}")
-print(f"R^2 (Coefficient of Determination) = {r_squared:.4f}")
-
 # Generate x-values for smooth curve plotting
 x_plot_vals = np.linspace(min(x_data) - 1, max(x_data) + 1, 400)
 
 # Calculate the corresponding y-values for the plot based on the fitted parameters
 y_plot_vals = refraction_model([c1_fitted, c2_fitted, alpha_fitted], x_plot_vals)
 
-# Plotting the curve and experimental data points
+# Calculate the error percentage for each y_data point in the first graph
+y_error_percentages = np.abs((y_data - refraction_model([c1_fitted, c2_fitted, alpha_fitted], x_data)) / y_data) * 100
+
+# Calculate the average error percentage for the first graph
+average_y_error_percentage = np.mean(y_error_percentages)
+
+# Calculate R^2 for the first graph
+y_predicted = refraction_model([c1_fitted, c2_fitted, alpha_fitted], x_data)
+ss_total_y = np.sum((y_data - np.mean(y_data)) ** 2)
+ss_residual_y = np.sum((y_data - y_predicted) ** 2)
+r_squared_y = 1 - (ss_residual_y / ss_total_y)
+
+# Plot the fitted refraction model and experimental data points
 plt.figure(figsize=(10, 6))
-
-# Plot the fitted refraction model
 plt.plot(x_plot_vals, y_plot_vals, color='darkblue', label=f'Fitted Refraction Model\nn(y) = 1 + {alpha_fitted:.4f}y')
-
-# Plot the original data points
 plt.scatter(x_data, y_data, color='crimson', label='Experimental Data Points', marker='o', zorder=5)
-
-# Customizing plot appearance
-plt.title(f'Fitted Refraction Index Model and Experimental Data\nAverage n(y) = {average_n_y:.4f}, R^2 = {r_squared:.4f}', fontsize=14)
+plt.title(f'Fitted Refraction Index Model and Experimental Data\nAverage n(y) = {np.mean(n_y_values):.4f}, R^2 = {r_squared_y:.4f}\nAverage Error = {average_y_error_percentage:.2f}%')
 plt.xlabel('x-position (cm)')
 plt.ylabel('y-position (cm)')
 plt.legend(loc='best')
 plt.grid(True, linestyle='--', linewidth=0.5)
-
-# Display the plot
 plt.show()
+
+# Calculate R^2 for the second graph (n(y) vs y)
+ss_total_n = np.sum((n_y_values - np.mean(n_y_values)) ** 2)
+ss_residual_n = np.sum((n_y_values - (1 + alpha_fitted * y_data)) ** 2)
+r_squared_n = 1 - (ss_residual_n / ss_total_n)
+
+# Plot n(y) vs y
+plt.figure(figsize=(10, 6))
+plt.plot(y_data, n_y_values, color='darkblue', marker='o', linestyle='-', label=f'Refractive Index n(y)\nR^2 = {r_squared_n:.4f}')
+plt.title(f'Refractive Index n(y) vs y\nAverage Error = {np.mean(np.abs((n_y_values - 1) / n_y_values) * 100):.2f}%')
+plt.xlabel('y-position (cm)')
+plt.ylabel('Refractive Index n(y)')
+plt.grid(True, linestyle='--', linewidth=0.5)
+plt.legend(loc='best')
+plt.show()
+
+# Print the results
+print(f"Optimized c1 = {c1_fitted:.4f}")
+print(f"Optimized c2 = {c2_fitted:.4f}")
+print(f"Optimized α (alpha) = {alpha_fitted:.4f}")
+print(f"Average Error Percentage for y-data in First Graph = {average_y_error_percentage:.2f}%")
+print(f"R^2 for y-data in First Graph = {r_squared_y:.4f}")
+print(f"Average Error Percentage for n(y) in Second Graph = {np.mean(np.abs((n_y_values - 1) / n_y_values) * 100):.2f}%")
+print(f"R^2 for n(y) in Second Graph = {r_squared_n:.4f}")
